@@ -24,6 +24,7 @@ PostgreSQL (Banco de dados opcional)
 
 ---
 📦 design-patterns-java
+````
  ┣ 📂 src
  ┃ ┣ 📂 main
  ┃ ┃ ┣ 📂 java
@@ -38,6 +39,7 @@ PostgreSQL (Banco de dados opcional)
  ┣ 📜 pom.xml  # Arquivo Maven
  ┗ 📜 .gitignore
 
+````
 ---
 
 📚 Padrões de projeto abordados
